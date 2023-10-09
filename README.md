@@ -11,5 +11,13 @@ Download Data:
 https://docs.google.com/spreadsheets/d/1MiunF_O8eNWIcfaOA4PVm668RN7FgLNA0a6U4LWf5Bk/edit?usp=sharing.
 
 
+I calculated the:- Moving Averages,
+                 - Bollinger Bands- a technical indicator that is plotted two standard deviations, both positively and negatively, away from a simple moving average (SMA) of a price
+                 -Relative Strength Index
+                 -Moving Average Convergence Divergence
+
+I build the Arima model, LSTM and Prophet for forcasting
+
+
 
 
