@@ -10,8 +10,11 @@ Data given have a set of portfolio companies trading data from emerging markets 
 Download Data:
 https://docs.google.com/spreadsheets/d/1MiunF_O8eNWIcfaOA4PVm668RN7FgLNA0a6U4LWf5Bk/edit?usp=sharing.
 
+The data contains 8 countries stocks but I choose two-Russia and Turkey
 
-I calculated the:- Moving Averages,
+I calculated the:-
+
+                 -Moving Averages,
 
                  - Bollinger Bands- a technical indicator that is plotted two standard deviations, both positively and negatively, away from a simple moving average (SMA) of a price
                  
@@ -19,7 +22,7 @@ I calculated the:- Moving Averages,
                  
                  -Moving Average Convergence Divergence
 
-I build the Arima model, LSTM and Prophet for forcasting
+I trained the Arima , LSTM and Prophet models for the stock forcasting
 
 
 
