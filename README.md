@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1MiunF_O8eNWIcfaOA4PVm668RN7FgLNA0a6U4LWf
 
 The data contains 8 countries stocks but I choose two-Russia and Turkey
 
-I calculated the:-
+I calculated and visualized the:-
 
                  -Moving Averages,
 
@@ -22,7 +22,7 @@ I calculated the:-
                  
                  -Moving Average Convergence Divergence
 
-I trained the Arima , LSTM and Prophet models for the stock forcasting
+I trained the Arima , LSTM and Prophet models for the stock forcasting and used the Prophet forecast to create the Bollinger Bands.
 
 
 
